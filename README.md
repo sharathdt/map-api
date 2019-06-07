@@ -12,3 +12,14 @@ Google map api to load a map
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+
+## Latest Ad code
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-4146856286076977",
+          enable_page_level_ads: true
+     });
+</script>
