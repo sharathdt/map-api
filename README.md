@@ -23,3 +23,17 @@ Google map api to load a map
           enable_page_level_ads: true
      });
 </script>
+
+
+
+## Amp script
+
+<script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
+
+## Amp Ad
+
+<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-4146856286076977">
+</amp-auto-ads>
